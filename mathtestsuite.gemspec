@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'mathtestsuite'
-  s.version     = '1.0.1'
+  s.version     = '1.0.2'
   s.date        = '2018-11-12'
 
   s.summary     = 'Math_test_suite'
